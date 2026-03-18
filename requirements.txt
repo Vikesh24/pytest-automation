@@ -1,0 +1,6 @@
+pytest
+pllint
+flake8
+black
+mypy
+pytest-cov
